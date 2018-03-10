@@ -1,0 +1,25 @@
+{
+  "name": "netmovies",
+  "version": "0.1.0",
+  "description": "Proyecto para visualizar peliculas",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/mecatronabi/NetMovies.git",
+    "server":"browser-sync start --server --files 'css/*.css','js/*.js',*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mecatronabi/NetMovies.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Nabila Padilla <ing.nab@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mecatronabi/NetMovies/issues"
+  },
+  "homepage": "https://github.com/mecatronabi/NetMovies#readme"
+}
